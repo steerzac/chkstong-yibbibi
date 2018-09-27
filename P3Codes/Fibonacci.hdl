@@ -1,0 +1,10 @@
+//Fibonacci Number Generator
+//Given two initial numbers f0 and f1, the sequence will be generated
+
+CHIP Fibonacci {
+	IN f0[16], enable1, msel, enable2, enable3, f1[16];
+	OUT out[16];
+
+	PARTS:
+	//Put your code here
+}

@@ -1,0 +1,20 @@
+// This file is part of www.nand2tetris.org
+// and the book "The Elements of Computing Systems"
+// by Nisan and Schocken, MIT Press.
+// File name: projects/03/AggieCipher.hdl
+
+/**
+ * Implement a 4-bit dynamic shift cipher(we call it aggie cipher :)) that computes out=in+counter, where counter=<0,1,2,3,4,5,6,....,15,0,1,2,...>
+ * Please write the truth table of the circuit in another text file.
+ * You may use the 4-bit adder you implemented in project 2
+ */
+
+CHIP AggieCipher {
+    IN in[4];
+    OUT out[4];
+    
+	PARTS:
+    // Put your code here:
+	
+	
+}
