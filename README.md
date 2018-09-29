@@ -30,8 +30,8 @@ chkstong yibbibi chkstong yibbibi chkstong yibbibi chkstong yibbibi chkstong yib
 chkstong yibbibi chkstong yibbibi chkstong yibbibi chkstong yibbibi chkstong yibbibi chkstong yibbibi chkstong yibbibi
 
 
-http://people.tamu.edu/~ntiner1/
+https://jonathanearauco.wixsite.com/chkstong-yibbibi
 
-http://people.tamu.edu/~isaacoviedo/
+https://jonathanarauco.com/
 
-http://people.tamu.edu/~bobbyhodge2/index.html
+https://www.jonathanarauco.com/chkstong-yibbibi
