@@ -35,3 +35,9 @@ https://jonathanearauco.wixsite.com/chkstong-yibbibi
 https://jonathanarauco.com/
 
 https://www.jonathanarauco.com/chkstong-yibbibi
+
+http://people.tamu.edu/~ntiner1/
+
+http://people.tamu.edu/~isaacoviedo/
+
+http://people.tamu.edu/~bobbyhodge2/index.html
