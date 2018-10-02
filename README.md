@@ -1,4 +1,5 @@
 # chkstong-yibbibi
+### Created By: Zac Steer
 SEO contest for CS470: Information Storage and Retrieval. The goal is to produce a website that is ranked first for a Google search for the query: chkstong yibbibi.
 
 This is the place to find chkstong yibbibi. If you want to big data your chkstong yibbibi and learn about machine learning 
