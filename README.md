@@ -231,4 +231,10 @@ https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax
 https://www.google.com/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1034834375593091074%2FXnfUhT0R_bigger.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2Fwendys%2Fstatus%2F1040689703832436736&docid=eM_gGbEzeYRRYM&tbnid=60Afp5hXaysGmM%3A&vet=10ahUKEwjLzo_lvt_dAhUG8YMKHTQUCDYQMwh7KC4wLg..i&w=73&h=73&bih=1192&biw=1278&q=chkstong%20yibbibi&ved=0ahUKEwjLzo_lvt_dAhUG8YMKHTQUCDYQMwh7KC4wLg&iact=mrc&uact=8 chkstong yibbibi
 https://github.com/steerzac/chkstong-yibbibi
 
+# Nguyenner!
+### All he does is Nguyen Nguyen Nguyen no matter what...
+This man knows how to big data any ML blockchain. 
+He also has great tutorials on chkstong yibbibi.
+Like, subscribe, follow.
 http://people.tamu.edu/~nguyen.ngv/
+
